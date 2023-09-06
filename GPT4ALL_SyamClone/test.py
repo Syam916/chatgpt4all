@@ -1,0 +1,1 @@
+print(len('Once upon a time, 10 people attended a seminar. Unfortunately, half of them had to leave early because they were needed elsewhere. How many people remained at the end?'))
